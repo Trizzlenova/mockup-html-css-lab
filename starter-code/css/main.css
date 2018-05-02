@@ -71,3 +71,11 @@ p {
 footer {
   color: #dbdbdb;
 }
+
+article p:first-letter {
+  float: left;
+  font-size: 6em;
+  line-height: 1;
+  color: #DDD;
+  margin: -.1em .1em 0 -.1em;
+}
